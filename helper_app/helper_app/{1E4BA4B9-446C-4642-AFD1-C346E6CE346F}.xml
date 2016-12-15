@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<configuration date="2016/12/15" author="e.World Technology Ltd.">
+<project id="{1E4BA4B9-446C-4642-AFD1-C346E6CE346F}" file="C:\Users\radityopw\Documents\kampus\penelitian\gamification library\helper_app.pmp" name="helper_app" product="PHPMaker" version="11.0" datetime="2016/12/15 08:27:37" languagefolder="phplang" userlevel="">
+<table id="aktivitas" name="aktivitas" caption="aktivitas" userlevel="" priv="1"/>
+<table id="aktivitas_badge" name="aktivitas_badge" caption="aktivitas badge" userlevel="" priv="1"/>
+<table id="badge" name="badge" caption="badge" userlevel="" priv="1"/>
+<table id="user" name="user" caption="user" userlevel="" priv="1"/>
+<table id="user_aktivitas" name="user_aktivitas" caption="user aktivitas" userlevel="" priv="1"/>
+<table id="user_badge" name="user_badge" caption="user badge" userlevel="" priv="1"/>
+<table id="v_leaderboard" name="v_leaderboard" caption="v leaderboard" userlevel="" priv="1"/>
+</project></configuration>
